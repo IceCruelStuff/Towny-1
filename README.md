@@ -2,6 +2,6 @@
 
 A PocketMine-MP Plugin | Towny
 
-## You can contribute my project!
+## Attention
 
-if your language is not available, you can add your language.
+This repository has been moved to **[Towny](https://github.com/IceCruelStuff/Towny)**.
